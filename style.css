@@ -1,0 +1,30 @@
+h1 {
+	font-size: 100px;
+	font-family: "Nanum Gothic", sans-serif;
+}
+p {
+	font-size: 20px;
+	font-family: "Nanum Gothic", sans-serif;
+}
+#HeaderParent {
+	display: flex;
+    justify-content: center;
+	margin: 20px;
+}
+#HeaderDiv {
+	width: 90%;
+	padding: 10px;
+	background-color: rgb(0, 0, 0);
+	display: flex;
+    justify-content: center;
+	border-radius: 40px;
+}
+#HeaderText {
+	float: left;
+	color: rgb(255, 255, 255);
+	margin-left: 20px;
+}
+#DecoDiv {
+	float: right;
+	margin: 20px;
+}
