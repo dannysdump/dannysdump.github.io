@@ -28,3 +28,22 @@ p {
 	float: right;
 	margin: 20px;
 }
+/*#InfoDiv {
+	float: left;
+	margin: 20px;
+}
+#PresentationDiv {
+	float: left;
+}*/
+#ImgDiv {
+	float: right;
+	width: 40%;
+}
+#RevelImage {
+	margin-left: 15%;
+	width: 60%;
+	border-radius: 10%;
+}
+#Caption {
+	color: rgb(128, 128, 128);
+}
